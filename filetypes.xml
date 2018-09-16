@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="mako" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
